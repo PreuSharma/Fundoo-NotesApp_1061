@@ -13,3 +13,16 @@ export const registerUser = async (req, res) => {
     console.log(error);
   }
 };
+
+export const getAllUsers = async (req, res) => {
+  try {
+    let data = await UserService.getUser(req.body);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'All Users Fetched Successfully'
+    });
+  } catch (error) {
+    console.log(error);
+  }
+};

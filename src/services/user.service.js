@@ -10,3 +10,12 @@ export const newUser = async (body) => {
     return user;
   }
 };
+
+export const getUser = async () => {
+  try {
+    const allUsers = await User.find();
+    return allUsers;
+  } catch (error) {
+    throw new Error(error.message);
+  }
+};
