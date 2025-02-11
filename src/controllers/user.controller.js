@@ -26,3 +26,20 @@ export const getAllUsers = async (req, res) => {
     console.log(error);
   }
 };
+
+export const loginUsers = async (req, res) => {
+  try {
+    let data = await UserService.loginUser(req.body);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'All user fetched'
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: 'Error in login'
+    });
+  }
+};

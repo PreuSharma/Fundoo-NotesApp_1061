@@ -26,9 +26,32 @@ export const newUser = async (body) => {
 
 export const getUser = async () => {
   try {
-    const allUsers = await User.find({}, { password: 0 });
+    const allUsers = await User.find();
     return allUsers;
   } catch (error) {
     throw new Error(error.message);
+  }
+};
+
+// User Login
+export const loginUser = async (body) => {
+  try {
+    const { email, password } = body;
+
+    // Check if user exists
+    const user = await User.findOne({ email });
+    if (!user) {
+      return { message: 'Invalid email or password', success: false };
+    }
+
+    // Compare the password with the hashed password
+    const isMatch = await bcrypt.compare(password, user.password);
+    if (!isMatch) {
+      return { message: 'Invalid email or password', success: false };
+    }
+
+    return { message: 'Login successful', success: true, user };
+  } catch (error) {
+    throw new Error(`Error logging in: ${error.message}`);
   }
 };
