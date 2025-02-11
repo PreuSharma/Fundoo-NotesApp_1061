@@ -19,11 +19,21 @@ export const userAuth = async (req, res, next) => {
       };
     bearerToken = bearerToken.split(' ')[1];
 
-    const { user } = await jwt.verify(bearerToken, 'your-secret-key');
+    const { user } = await jwt.verify(bearerToken, process.env.JWT_SECRET_KEY);
     res.locals.user = user;
     res.locals.token = bearerToken;
     next();
   } catch (error) {
+    if (error instanceof jwt.TokenExpiredError) {
+      return res
+        .status(HttpStatus.UNAUTHORIZED)
+        .json({ message: 'Token has expired' });
+    }
+    if (error instanceof jwt.JsonWebTokenError) {
+      return res
+        .status(HttpStatus.UNAUTHORIZED)
+        .json({ message: 'Invalid token' });
+    }
     next(error);
   }
 };

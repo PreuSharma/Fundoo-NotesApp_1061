@@ -1,5 +1,6 @@
 import User from '../models/user.model';
 import bcrypt from 'bcrypt';
+import jwt from 'jsonwebtoken';
 
 // Create New User
 export const newUser = async (body) => {
@@ -50,7 +51,14 @@ export const loginUser = async (body) => {
       return { message: 'Invalid email or password', success: false };
     }
 
-    return { message: 'Login successful', success: true, user };
+    // Generate JWT token
+    const token = jwt.sign(
+      { userId: user._id, email: user.email },
+      process.env.JWT_SECRET_KEY, // Add your secret key in .env file
+      { expiresIn: '1h' } // Token expires in 1 hour
+    );
+
+    return { message: 'Login successful', success: true, token };
   } catch (error) {
     throw new Error(`Error logging in: ${error.message}`);
   }
