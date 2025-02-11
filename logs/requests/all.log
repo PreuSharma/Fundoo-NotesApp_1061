@@ -107,3 +107,5 @@ info: ::1 - - [11/Feb/2025:05:08:16 +0000] "POST /api/v1/users HTTP/1.1" 500 51 
 
 info: ::1 - - [11/Feb/2025:05:44:42 +0000] "GET /api/v1/users HTTP/1.1" 200 499 "-" "PostmanRuntime/7.37.3"
 
+info: ::1 - - [11/Feb/2025:05:58:37 +0000] "GET /api/v1/users HTTP/1.1" 200 499 "-" "PostmanRuntime/7.37.3"
+
