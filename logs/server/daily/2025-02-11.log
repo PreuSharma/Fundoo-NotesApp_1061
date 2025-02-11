@@ -1,0 +1,261 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2025-02-11T04:01:57.162Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:02:03.906Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:06:13.439Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:10:40.620Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:11:21.702Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:11:21.714Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:28.859Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:28.874Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:41.079Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:41.093Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:47.868Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:47.888Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:51.937Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:51.952Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:59.867Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:59.884Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:02.248Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:02.267Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:14.063Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:14.086Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:19.450Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:19.466Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:23.545Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:23.579Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:41.145Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:41.162Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:49.358Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:49.385Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:52.280Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:52.299Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:54.177Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:54.195Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:03.594Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:03.609Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:08.765Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:08.780Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:12.194Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:12.221Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:14.539Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:14.556Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:29:09.754Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:29:09.776Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:24.442Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:30.930Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:41.638Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password cannot exceed 15 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:50.624Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:57.925Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 6 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:31:30.616Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 6 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:31:38.241Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 6 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:31:43.938Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:32:15.822Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:32:15.867Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:32:21.017Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:32:56.926Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:32:56.940Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:33:02.287Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:33:07.425Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:34:02.962Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:35:30.756Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:37:48.446Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:38:59.188Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:41:52.271Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:47:23.957Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:47:23.993Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:47:25.355Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:47:26.763Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:47:39.483Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:47:39.499Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:47:59.885Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:49:20.047Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:49:20.081Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:49:59.025Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:49:59.067Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:50:51.336Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:50:51.350Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:51:14.088Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:51:14.104Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:11.014Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:11.041Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:14.107Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:14.131Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:17.167Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:17.189Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:21.436Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:21.451Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:32.365Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:32.381Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:36.006Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:36.023Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:41.799Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:41.817Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:44.546Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:44.569Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:48.225Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:48.240Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:57.720Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:57.739Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:54:01.044Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:54:01.065Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:54:31.609Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:54:31.627Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:55:12.096Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:55:12.112Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:55:48.730Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:55:48.750Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:37.190Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:37.205Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:41.071Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:41.092Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:45.940Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:45.961Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:55.891Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:55.913Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:58:24.458Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:58:24.480Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:59:19.979Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:59:19.997Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:00:28.758Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:00:28.783Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:01:41.286Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:01:41.313Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:03:18.810Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:03:18.826Z"}
+error: 
+    status - 500 
+    message - ValidationError: Name must be at least 4 characters 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T05:07:56.531Z"}
+error: 
+    status - 500 
+    message - ValidationError: Name is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T05:08:16.104Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:12:13.795Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:12:13.817Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:13:04.629Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:13:04.649Z"}

@@ -1,0 +1,285 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2025-02-11T04:01:57.162Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:02:03.906Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:06:13.439Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Tue Feb 11 2025 09:40:40 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":5000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":868229.375},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262407,"external":21344455,"heapTotal":89534464,"heapUsed":51015656,"rss":132771840},"pid":21572,"uid":null,"version":"v22.13.0"},"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-11T04:10:40.605Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1937,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1994,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2099,"method":"listen","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:11:21.702Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:11:21.714Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:28.859Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:28.874Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:41.079Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:41.093Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:47.868Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:47.888Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:51.937Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:51.952Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:23:59.867Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:23:59.884Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:02.248Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:02.267Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:14.063Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:14.086Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:19.450Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:19.466Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:24:23.545Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:24:23.579Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:41.145Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:41.162Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:49.358Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:49.385Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:52.280Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:52.299Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:25:54.177Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:25:54.195Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:03.594Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:03.609Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:08.765Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:08.780Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:12.194Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:12.221Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:26:14.539Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:26:14.556Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:29:09.754Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:29:09.776Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:24.442Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:30.930Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:41.638Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password cannot exceed 15 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:50.624Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:30:57.925Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 6 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:31:30.616Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 6 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:31:38.241Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 6 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:31:43.938Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:32:15.822Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:32:15.867Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:32:21.017Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:32:56.926Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:32:56.940Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:33:02.287Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:33:07.425Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:34:02.962Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:35:30.756Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:37:48.446Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:38:59.188Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:41:52.271Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:47:23.957Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:47:23.993Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:47:25.355Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:47:26.763Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:47:39.483Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:47:39.499Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password contain special character (!@#$%^&*) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T04:47:59.885Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:49:20.047Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:49:20.081Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:49:59.025Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:49:59.067Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:50:51.336Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:50:51.350Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:51:14.088Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:51:14.104Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:11.014Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:11.041Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:14.107Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:14.131Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:17.167Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:17.189Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:21.436Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:21.451Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:32.365Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:32.381Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:36.006Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:36.023Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:41.799Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:41.817Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:44.546Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:44.569Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:48.225Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:48.240Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:53:57.720Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:53:57.739Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:54:01.044Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:54:01.065Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:54:31.609Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:54:31.627Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:55:12.096Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:55:12.112Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:55:48.730Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:55:48.750Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:37.190Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:37.205Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:41.071Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:41.092Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:45.940Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:45.961Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:56:55.891Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:56:55.913Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:58:24.458Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:58:24.480Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T04:59:19.979Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T04:59:19.997Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:00:28.758Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:00:28.783Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:01:41.286Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:01:41.313Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:03:18.810Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:03:18.826Z"}
+error: 
+    status - 500 
+    message - ValidationError: Name must be at least 4 characters 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T05:07:56.531Z"}
+error: 
+    status - 500 
+    message - ValidationError: Name is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T05:08:16.104Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:12:13.795Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:12:13.817Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T05:13:04.629Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T05:13:04.649Z"}
