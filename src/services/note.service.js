@@ -23,3 +23,24 @@ export const createNote = async (body) => {
     message: "Note created successfully!"
   };
 }
+
+
+
+
+
+export const updateNote = async (_id, body) => {
+    try{
+        const note = await Note.findById(_id);
+        if (!note) {
+            return { message: 'Note not found' };
+        }
+        if(note.isTrash === true){
+            return {message: 'no notes'};
+        }
+        console.log("updated user");
+        const data = await Note.findByIdAndUpdate(_id,body,{new: true , runValidators: true});
+        return data;
+    } catch (error) {
+        return {error: error.message};
+    }
+};

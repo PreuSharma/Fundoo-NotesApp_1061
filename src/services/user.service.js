@@ -1,3 +1,5 @@
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable prettier/prettier */
 import User from '../models/user.model';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
@@ -58,8 +60,9 @@ export const loginUser = async (body) => {
       { expiresIn: '1h' } // Token expires in 1 hour
     );
 
-    return { message: 'Login successful', success: true, token };
+    return { message: 'Login successful', token, user};
   } catch (error) {
+    
     throw new Error(`Error logging in: ${error.message}`);
   }
 };

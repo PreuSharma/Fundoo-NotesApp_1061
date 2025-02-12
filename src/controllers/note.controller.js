@@ -19,3 +19,19 @@ export const createNote = async (req, res) => {
     });
   }
 };
+
+
+
+
+export const updateNote = async (req, res, next) => {
+    try {
+      const data = await NoteService.updateNote(req.params._id, req.body);
+      res.status(HttpStatus.ACCEPTED).json({
+        code: HttpStatus.ACCEPTED,
+        data: data,
+        message: 'User updated successfully'
+      });
+    } catch (error) {
+      next(error);
+    }
+  };
