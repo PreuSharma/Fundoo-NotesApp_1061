@@ -1,6 +1,7 @@
+/* eslint-disable max-len */
 /* eslint-disable prettier/prettier */
 import User from '../models/user.model';
-import bcrypt from 'bcrypt';
+import bcrypt, { hash } from 'bcrypt';
 import jwt from 'jsonwebtoken';
 
 // Create New User
@@ -65,17 +66,53 @@ export const loginUser = async (body) => {
   }
 };
 
-
-
-export const forgetPass = async ({email}) => {
-  try{
-    const user = await User.findOne({email});
-    if(!user){
-      return {message: 'not found email'};
+// eslint-disable-next-line no-unused-vars
+let recentOTP;
+export const forgetPass = async ({ email }) => {
+  try {
+    const user = await User.findOne({ email });
+    if (!user) {
+      return { message: 'not found email' };
     }
     const otp = Math.floor(100000 + Math.random() * 900000);
-    return{message:'otp generated' , otp};
-  }catch (error) {
-    return {error: error.message};
+    recentOTP = otp;
+    return { message: 'otp generated', otp };
+  } catch (error) {
+    return { error: error.message };
   }
-}
+};
+
+export const resetPassword = async ({ email, otp, newPassword }) => {
+  try {
+    const user = await User.findOne({ email });
+    if (!user) {
+      return { message: 'Email not found' };
+    }
+
+    if (recentOTP !== parseInt(otp)) {
+      return { isValid: false, message: 'Invalid OTP' };
+    }
+
+    const hashedPassword = await bcrypt.hash(newPassword, 10);
+
+    let data = await User.findOneAndUpdate(
+      { email },
+      { password: hashedPassword },
+      { new: true }
+    );
+
+    recentOTP=null;
+    return data;
+
+    // if(recentOTP!==null)
+    // {
+    //   recentOTP=null;
+    //   return data;
+    // }
+    // else{
+    //   return { isValid: false,message: 'Invalid or expired OTP'};
+    // }
+  } catch (error) {
+    return { error: error.message };
+  }
+};
