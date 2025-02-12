@@ -29,6 +29,8 @@ app.use(morgan('combined', { stream: logStream }));
 
 database();
 
+console.log(`API Base Route: /api/${api_version}`);
+
 app.use(`/api/${api_version}`, routes());
 app.use(appErrorHandler);
 app.use(genericErrorHandler);

@@ -363,3 +363,857 @@ info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T0
 info: Connected to the database. {"timestamp":"2025-02-11T09:57:06.922Z"}
 info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T09:57:34.754Z"}
 info: Connected to the database. {"timestamp":"2025-02-11T09:57:34.768Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:01:37.393Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:01:37.403Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:03:25.526Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:03:25.539Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:04:59.342Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:04:59.359Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:09.303Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:09.319Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:16.861Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:16.879Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:23.642Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:23.655Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:28.237Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:28.251Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:36.292Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:36.311Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:42.237Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:42.251Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:48.817Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:48.830Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:05:53.587Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:05:53.603Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:06:02.706Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:06:02.720Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:06:12.862Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:06:12.885Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:06:17.497Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:06:17.516Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:06:28.012Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:06:28.026Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:06:33.899Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:06:33.911Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:06:40.600Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:06:40.612Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:30.326Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:30.345Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:40.008Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:40.020Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:43.925Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:43.937Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:47.192Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:47.206Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:50.966Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:50.978Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:53.541Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:53.554Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:07:59.595Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:07:59.608Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:01.625Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:01.646Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:04.853Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:04.865Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:08.847Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:08.861Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:11.700Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:11.715Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:13.905Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:13.921Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:17.295Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:17.313Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:21.160Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:21.179Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:27.775Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:27.793Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:30.901Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:30.917Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:33.327Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:33.344Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:37.659Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:37.678Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:41.836Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:41.849Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:44.522Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:44.549Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:46.426Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:46.455Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:48.114Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:48.128Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:08:56.999Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:08:57.014Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:01.332Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:01.346Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:04.192Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:04.207Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:08.731Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:08.746Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:11.539Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:11.555Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:14.799Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:14.814Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:16.547Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:16.563Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:19.023Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:19.040Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:21.483Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:21.500Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:25.421Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:25.441Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:28.450Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:28.462Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:31.188Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:31.200Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:34.307Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:34.324Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:37.409Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:37.425Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:39.697Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:39.714Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:47.597Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:47.609Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:50.158Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:50.174Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:09:51.832Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:09:51.848Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:10:23.748Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:10:23.767Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:10:33.263Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:10:33.274Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:10:37.335Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:10:37.349Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:10:43.852Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:10:43.869Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:10:47.849Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:10:47.860Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:11:27.020Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:11:27.037Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:06.254Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:06.266Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:26.763Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:26.775Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:34.238Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:34.248Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:37.335Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:37.352Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:39.266Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:39.279Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:50.120Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:50.133Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:52.655Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:52.672Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:13:58.928Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:13:58.940Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:14:02.031Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:14:02.044Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:14:03.825Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:14:03.838Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:14:07.624Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:14:07.641Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:14:10.145Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:14:10.156Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:14:22.498Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:14:22.512Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:18:11.690Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:18:11.706Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:19:14.562Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:19:14.578Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T10:19:16.819Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T10:19:16.831Z"}
+error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:462:11)
+    at routes (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\routes\/index.js:16:10)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:32:38)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Tue Feb 11 2025 18:16:38 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":899187.437},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18270928,"external":21374090,"heapTotal":91975680,"heapUsed":62240184,"rss":138747904},"pid":16816,"uid":null,"version":"v22.13.0"},"stack":"TypeError: Router.use() requires a middleware function\n    at Function.use (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\router\\index.js:462:11)\n    at routes (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\routes\\/index.js:16:10)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:32:38)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-11T12:46:38.672Z","trace":[{"column":11,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":462,"method":"use","native":false},{"column":10,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":38,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-11T12:46:38.722Z"}
+error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:462:11)
+    at routes (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\routes\/index.js:16:10)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:32:38)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Tue Feb 11 2025 18:16:42 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":899191.093},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18270928,"external":21374090,"heapTotal":91975680,"heapUsed":61944448,"rss":137805824},"pid":18148,"uid":null,"version":"v22.13.0"},"stack":"TypeError: Router.use() requires a middleware function\n    at Function.use (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\router\\index.js:462:11)\n    at routes (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\routes\\/index.js:16:10)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:32:38)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-11T12:46:42.324Z","trace":[{"column":11,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":462,"method":"use","native":false},{"column":10,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":38,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-11T12:46:42.359Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:46:46.863Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:46:46.891Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:56:24.575Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:56:24.604Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:56:32.011Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:56:32.037Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:57:00.636Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:57:00.652Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:57:08.042Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:57:08.053Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:57:11.438Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:57:11.450Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:57:17.002Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:57:17.014Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:58:56.749Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:58:56.760Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T12:58:59.550Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T12:58:59.573Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:02:02.029Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:02:02.040Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:02:06.030Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:02:06.040Z"}
+error: uncaughtException: api_version is not defined
+ReferenceError: api_version is not defined
+    at routes (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\routes\/index.js:17:45)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:32:38)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Tue Feb 11 2025 18:32:08 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":900117.515},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18270928,"external":21374090,"heapTotal":90402816,"heapUsed":56654792,"rss":134594560},"pid":3252,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: api_version is not defined\n    at routes (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\routes\\/index.js:17:45)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:32:38)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-11T13:02:08.750Z","trace":[{"column":45,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\routes\\/index.js","function":"routes","line":17,"method":null,"native":false},{"column":38,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-11T13:02:08.773Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:02:20.707Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:02:20.720Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:02:22.732Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:02:22.742Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:05:18.402Z"}
+error: 
+    status - 500 
+    message - ValidationError: Password must be at least 8 characters 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:05:34.761Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:12:23.440Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:12:23.453Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:12:25.676Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:12:25.686Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:12:37.798Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:12:37.811Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:14:03.642Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:14:03.654Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:20:42.469Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:20:42.493Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:20:45.597Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:20:45.620Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:20:50.090Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:20:50.102Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:20:54.648Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:20:54.666Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:20:56.827Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:20:56.842Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:20:59.285Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:20:59.303Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:07.037Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:07.053Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:10.596Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:10.613Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:13.788Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:13.801Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:17.489Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:17.504Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:21.290Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:21.309Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:23.838Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:23.854Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:27.435Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:27.454Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:30.466Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:30.477Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:41.465Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:41.478Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:44.463Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:44.477Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:21:46.468Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:21:46.483Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:22:46.388Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:22:46.407Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:14:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:22:55.364Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:23:07.422Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:23:07.439Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:23:20.552Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:23:20.569Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:23:23.905Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:23:23.921Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:23:33.327Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:23:33.348Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:14:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:23:38.028Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:14:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:24:16.686Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:25:20.748Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:25:20.767Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:14:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:25:24.971Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:25:49.119Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:25:49.132Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:25:52.109Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:25:52.121Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:25:55.695Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:25:55.714Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:14:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:26:09.523Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:26:50.438Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:26:50.452Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:26:53.998Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:26:54.015Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:15:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:27:14.471Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:29:28.143Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:29:28.157Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:15:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:29:33.893Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\jsonwebtoken\verify.js:82:17)
+    at _callee$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:15:28)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at userAuth (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\middlewares\/auth.middleware.js:4:22)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-11T13:30:57.769Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:36:09.129Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:36:09.149Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:36:17.205Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:36:17.219Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:37:45.884Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:37:45.905Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-11T13:37:50.363Z"}
+info: Connected to the database. {"timestamp":"2025-02-11T13:37:50.374Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:21:53.616Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:21:53.636Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:22:06.461Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:22:06.476Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-12T04:22:11.508Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-12T04:22:23.610Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-12T04:22:44.337Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-12T04:23:41.483Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-12T04:24:46.708Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:25:03.006Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:25:03.021Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-12T04:25:06.330Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:36:46.418Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:36:46.433Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:36:54.427Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:36:54.440Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-12T04:37:22.577Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:41:37.408Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:41:37.420Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:41:49.011Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:41:49.022Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:44:13.374Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:44:13.386Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:44:16.695Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:44:16.711Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:45:20.313Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:45:20.329Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:45:35.456Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:45:35.471Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:45:47.776Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:45:47.787Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:46:11.813Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:46:11.835Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:46:17.714Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:46:17.731Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-12T04:46:22.370Z"}
+info: Connected to the database. {"timestamp":"2025-02-12T04:46:22.384Z"}

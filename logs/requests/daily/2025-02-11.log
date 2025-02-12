@@ -118,3 +118,71 @@ info: ::1 - - [11/Feb/2025:09:25:52 +0000] "POST /api/v1/users/login HTTP/1.1" 5
 
 info: ::1 - - [11/Feb/2025:09:57:45 +0000] "POST /api/v1/users/login HTTP/1.1" 200 275 "-" "PostmanRuntime/7.43.0"
 
+info: ::1 - - [11/Feb/2025:10:17:40 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:10:18:16 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:46:48 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:49:49 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:50:05 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:50:48 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:52:05 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:52:36 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:52:44 +0000] "POST /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:53:30 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:12:54:24 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:02:28 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:05:05 +0000] "POST /api/v1/users/login HTTP/1.1" 400 50 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:05:18 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:05:34 +0000] "POST /api/v1/users HTTP/1.1" 500 73 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:05:41 +0000] "POST /api/v1/users HTTP/1.1" 201 357 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:05:57 +0000] "POST /api/v1/users/login HTTP/1.1" 200 272 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:06:47 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:08:51 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:09:09 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:09:40 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:10:14 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:12:40 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:14:12 +0000] "GET /api/v1/notes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:22:55 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:23:38 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:24:16 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:25:24 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:26:09 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:27:14 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:29:33 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:30:17 +0000] "POST /api/v1/users/login HTTP/1.1" 200 275 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:30:57 +0000] "POST /api/v1/notes HTTP/1.1" 500 48 "-" "PostmanRuntime/7.43.0"
+
+info: ::1 - - [11/Feb/2025:13:36:21 +0000] "POST /api/v1/notes HTTP/1.1" 401 38 "-" "PostmanRuntime/7.43.0"
+

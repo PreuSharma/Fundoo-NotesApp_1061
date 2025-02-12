@@ -1,39 +1,24 @@
 import HttpStatus from 'http-status-codes';
 import jwt from 'jsonwebtoken';
 
-/**
- * Middleware to authenticate if user has a valid Authorization token
- * Authorization: Bearer <token>
- *
- * @param {Object} req
- * @param {Object} res
- * @param {Function} next
- */
 export const userAuth = async (req, res, next) => {
   try {
-    let bearerToken = req.header('Authorization');
-    if (!bearerToken)
+    let newToken = req.header('Authorization');
+    if (!newToken)
       throw {
         code: HttpStatus.BAD_REQUEST,
         message: 'Authorization token is required'
       };
-    bearerToken = bearerToken.split(' ')[1];
+    newToken = newToken.split(' ')[1];
+    console.log('Token:', newToken);
 
-    const { user } = await jwt.verify(bearerToken, process.env.JWT_SECRET_KEY);
-    res.locals.user = user;
-    res.locals.token = bearerToken;
+    const user = await jwt.verify(newToken, process.env.JWT_SECRET_KEY);
+    console.log('=========>>>>>>>>', user);
+    req.body.userId = user.userId;
+    // res.user = user;
+    // res.token = newToken;
     next();
   } catch (error) {
-    if (error instanceof jwt.TokenExpiredError) {
-      return res
-        .status(HttpStatus.UNAUTHORIZED)
-        .json({ message: 'Token has expired' });
-    }
-    if (error instanceof jwt.JsonWebTokenError) {
-      return res
-        .status(HttpStatus.UNAUTHORIZED)
-        .json({ message: 'Invalid token' });
-    }
     next(error);
   }
 };
