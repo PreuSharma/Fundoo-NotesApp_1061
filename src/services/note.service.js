@@ -47,25 +47,19 @@ export const updateNote = async (_id, body) => {
 
 
 export const deleteNotes = async (_id) => {
-    try{
-    const note = await Note.findById(_id);
-    if(note.isTrash){
-        let data = await Note.findByIdAndUpdate(_id,
-            {isTrash: false},
-            {new:true}   
-        )
-        return data;
+    try {
+      const note = await Note.findById(_id);
+  
+      // Use ternary operator to toggle isTrash field
+      const data = await Note.findByIdAndUpdate(
+        _id,
+        { isTrash: note.isTrash ? false : true }, // Toggle the isTrash value
+        { new: true }
+      );
+  
+      return data;
+    } catch (error) {
+      return { error: error.message };
     }
-    else{
-        let data = await Note.findByIdAndUpdate(_id,
-            {isTrash: true},
-            {new:true}
-        )
-        return data;
-    }
-    }
-    catch (error)
-    {
-        return {error: error.message };
-    }
-}
+  };
+  
