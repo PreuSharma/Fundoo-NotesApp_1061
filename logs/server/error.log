@@ -195,3 +195,21 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2025-02-11T08:37:02.875Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 37 (line 3 column 1)
+    at JSON.parse (<anonymous>)
+    at parse (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:238:16)
+    at done (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21) 
+    url - /api/v1/users/forget 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2025-02-12T06:20:41.661Z"}
