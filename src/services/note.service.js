@@ -44,3 +44,28 @@ export const updateNote = async (_id, body) => {
         return {error: error.message};
     }
 };
+
+
+export const deleteNotes = async (_id) => {
+    try{
+    const note = await Note.findById(_id);
+    if(note.isTrash){
+        let data = await Note.findByIdAndUpdate(_id,
+            {isTrash: false},
+            {new:true}   
+        )
+        return data;
+    }
+    else{
+        let data = await Note.findByIdAndUpdate(_id,
+            {isTrash: true},
+            {new:true}
+        )
+        return data;
+    }
+    }
+    catch (error)
+    {
+        return {error: error.message };
+    }
+}
