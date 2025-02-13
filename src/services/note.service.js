@@ -11,7 +11,7 @@ export const createNote = async (body) => {
   if (!body.userId) {
     return {
       code: HttpStatus.BAD_REQUEST,
-      message: "User ID is required"
+      message: 'User ID is required'
     };
   }
 
@@ -21,7 +21,7 @@ export const createNote = async (body) => {
   return {
     code: HttpStatus.CREATED,
     data: data,
-    message: "Note created successfully!"
+    message: 'Note created successfully!'
   };
 }
 
@@ -39,9 +39,9 @@ export const updateNote = async (_id, body) => {
             return {message: 'no notes'};
         }
 
-        // if(body.userId!==note.userId){
-        //   return {message: 'You are not Authorized to Update this Note'}
-        // }
+        if(body.userId!==note.userId){
+          return {message: 'You are not Authorized to Update this Note'}
+        }
         console.log('updated user');
         const data = await Note.findByIdAndUpdate(_id,body,{new: true , runValidators: true});
         return data;
@@ -54,17 +54,36 @@ export const updateNote = async (_id, body) => {
 export const deleteNotes = async (_id) => {
     try {
       const note = await Note.findById(_id);
-  
+
+      if(body.userId!==note.userId){
+        return {message: 'You are not Authorized to Update this Note'}
+      }
       // Use ternary operator to toggle isTrash field
       const data = await Note.findByIdAndUpdate(
         _id,
         { isTrash: note.isTrash ? false : true }, // Toggle the isTrash value
         { new: true }
       );
-  
+
       return data;
     } catch (error) {
       return { error: error.message };
     }
   };
-  
+
+
+  export const getAllNotes = async () => {
+    const notes = await Note.find();
+    return notes;
+  };
+
+
+  export const getNotesByUser = async ({userId}) => {
+    if (!userId) {
+      return {
+      message: 'User ID is required'
+      }
+    }
+    const notes = await Note.find({ userId });
+    return notes;
+  };

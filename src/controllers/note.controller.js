@@ -52,3 +52,38 @@ export const updateNote = async (req, res, next) => {
       next(error);
     }
   };
+
+
+
+
+
+  export const getAllNotes = async (req,res,next) => {
+    try{
+    const data = await NoteService.getAllNotes();
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'All notes fetched successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
+
+export const getNotesByUser = async (req,res,next) => {
+  try{
+  // const { userId } = req.params.userId;
+  const data = await NoteService.getNotesByUser(req.body);
+  res.status(HttpStatus.OK).json({
+    code: HttpStatus.OK,
+    data: data,
+    message: 'All notes fetched successfully'
+  });
+} catch (error) {
+  next(error);
+}
+};
+
+  
