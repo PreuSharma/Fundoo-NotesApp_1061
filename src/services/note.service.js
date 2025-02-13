@@ -51,7 +51,7 @@ export const updateNote = async (_id, body) => {
 };
 
 
-export const deleteNotes = async (_id) => {
+export const deleteNotes = async (_id,body) => {
     try {
       const note = await Note.findById(_id);
 
@@ -85,5 +85,23 @@ export const deleteNotes = async (_id) => {
       }
     }
     const notes = await Note.find({ userId });
+    return notes;
+  };
+
+
+  export const getNotesById = async (_id,body) => {
+    const note = await Note.findById(_id);
+    if (!note) {
+      return {
+      message: 'ID is required'
+      }
+    }
+    console.log('-------------------------------->',note)
+    console.log('-------------------------------->',body);
+    console.log('-------------------------------->',note.userId);
+    if(body.userId!==note.userId){
+      return {message: 'You are not Authorized to get this Note'}
+    }
+    const notes = await Note.find({ _id });
     return notes;
   };

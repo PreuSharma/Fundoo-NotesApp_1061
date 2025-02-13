@@ -86,4 +86,17 @@ export const getNotesByUser = async (req,res,next) => {
 }
 };
 
-  
+
+export const getNotesById = async (req,res,next) => {
+  try{
+  // const { _id } = req.params.userId;
+  const data = await NoteService.getNotesById(req.params._id, req.body);
+  res.status(HttpStatus.OK).json({
+    code: HttpStatus.OK,
+    data: data,
+    message: 'All notes fetched successfully'
+  });
+} catch (error) {
+  next(error);
+}
+};

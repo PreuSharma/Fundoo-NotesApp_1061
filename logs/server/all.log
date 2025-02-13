@@ -1622,3 +1622,685 @@ info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T0
 info: Connected to the database. {"timestamp":"2025-02-13T08:19:10.107Z"}
 info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T08:41:00.068Z"}
 info: Connected to the database. {"timestamp":"2025-02-13T08:41:00.094Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T08:44:27.638Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T08:44:27.653Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T08:55:37.067Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T08:55:37.080Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T08:56:15.207Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T08:56:15.219Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T08:56:34.122Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T08:56:34.135Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T08:57:44.566Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T08:57:44.577Z"}
+error: uncaughtException: swaggerDocument is not defined
+ReferenceError: swaggerDocument is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:32:55)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:28:16 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058284.109},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":90927104,"heapUsed":53386512,"rss":196157440},"pid":16140,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: swaggerDocument is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:32:55)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T08:58:16.471Z","trace":[{"column":55,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T08:58:16.491Z"}
+error: uncaughtException: swaggerDocument is not defined
+ReferenceError: swaggerDocument is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:32:55)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:28:49 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058316.781},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":89878528,"heapUsed":55022696,"rss":194859008},"pid":20584,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: swaggerDocument is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:32:55)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T08:58:49.142Z","trace":[{"column":55,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T08:58:49.164Z"}
+error: uncaughtException: fs is not defined
+ReferenceError: fs is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:32:36)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:29:57 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058385.484},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":89616384,"heapUsed":54908688,"rss":194883584},"pid":8940,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: fs is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:32:36)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T08:59:57.852Z","trace":[{"column":36,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T08:59:57.872Z"}
+error: uncaughtException: fs is not defined
+ReferenceError: fs is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:33:3)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:30:04 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058391.687},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":90140672,"heapUsed":51922920,"rss":195563520},"pid":15320,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: fs is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:33:3)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:00:04.043Z","trace":[{"column":3,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":33,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:00:04.108Z"}
+error: uncaughtException: path is not defined
+ReferenceError: path is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:19)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:31:32 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058480.515},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262699,"external":21365898,"heapTotal":91451392,"heapUsed":50259432,"rss":196358144},"pid":2368,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: path is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:19)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:01:32.874Z","trace":[{"column":19,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:01:32.893Z"}
+error: uncaughtException: path is not defined
+ReferenceError: path is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:19)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:32:12 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058519.718},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":89354240,"heapUsed":54847888,"rss":194347008},"pid":11376,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: path is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:19)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:02:12.077Z","trace":[{"column":19,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:02:12.098Z"}
+error: uncaughtException: path is not defined
+ReferenceError: path is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:19)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:32:27 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058535.453},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":90140672,"heapUsed":51711248,"rss":195072000},"pid":2796,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: path is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:19)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:02:27.809Z","trace":[{"column":19,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:02:27.830Z"}
+error: uncaughtException: path is not defined
+ReferenceError: path is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:19)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:32:39 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058547.64},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":89878528,"heapUsed":54031968,"rss":194953216},"pid":12528,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: path is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:19)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:02:40.000Z","trace":[{"column":19,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:02:40.020Z"}
+error: uncaughtException: path is not defined
+ReferenceError: path is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:19)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:32:43 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058551.25},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262699,"external":21365898,"heapTotal":90402816,"heapUsed":50676864,"rss":195182592},"pid":22176,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: path is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:19)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:02:43.612Z","trace":[{"column":19,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:02:43.636Z"}
+error: uncaughtException: path is not defined
+ReferenceError: path is not defined
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:19)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 14:32:55 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058562.812},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":89616384,"heapUsed":55086640,"rss":194686976},"pid":12440,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: path is not defined\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:19)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:02:55.172Z","trace":[{"column":19,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:02:55.196Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:04:51.400Z"}
+error: uncaughtException: PORT is not defined
+ReferenceError: PORT is not defined
+    at Server.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:48:61)
+    at Object.onceWrapper (node:events:638:28)
+    at Server.emit (node:events:536:35)
+    at Server.emit (node:domain:489:12)
+    at emitListeningNT (node:net:1980:10)
+    at processTicksAndRejections (node:internal/process/task_queues:89:21) {"date":"Thu Feb 13 2025 14:34:51 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1058679.046},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21385029,"heapTotal":91009024,"heapUsed":51824352,"rss":197545984},"pid":568,"uid":null,"version":"v22.13.0"},"stack":"ReferenceError: PORT is not defined\n    at Server.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:48:61)\n    at Object.onceWrapper (node:events:638:28)\n    at Server.emit (node:events:536:35)\n    at Server.emit (node:domain:489:12)\n    at emitListeningNT (node:net:1980:10)\n    at processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2025-02-13T09:04:51.411Z","trace":[{"column":61,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":48,"method":null,"native":false},{"column":28,"file":"node:events","function":"Object.onceWrapper","line":638,"method":"onceWrapper","native":false},{"column":35,"file":"node:events","function":"Server.emit","line":536,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"Server.emit","line":489,"method":"emit","native":false},{"column":10,"file":"node:net","function":"emitListeningNT","line":1980,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":89,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:04:51.426Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:05:52.251Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:05:52.265Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:06:03.504Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:06:03.522Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:12:17.482Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:12:17.500Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:12:20.748Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:12:20.765Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:14:25.151Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:14:25.165Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:23:02.587Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:23:02.603Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:23:06.047Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:23:06.064Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:23:12.039Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:23:12.053Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:23:17.276Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:23:17.290Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:23:22.381Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:23:22.395Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:23:26.587Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:23:26.602Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:38:05.511Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:38:05.524Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:38:17.584Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:38:17.595Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:38:21.455Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:38:21.470Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:38:32.377Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:38:32.389Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:39:32.377Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:39:32.389Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:39:36.198Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:39:36.210Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:40:23.591Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:40:23.601Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:40:25.993Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:40:26.006Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:40:30.580Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:40:30.592Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:40:47.705Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:40:47.716Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:40:55.200Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:40:55.213Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::7000
+Error: listen EADDRINUSE: address already in use :::7000
+    at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+    at listenInCluster (node:net:1994:12)
+    at Server.listen (node:net:2099:7)
+    at Function.listen (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:46:5)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 15:12:08 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":7000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1060916.25},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21385029,"heapTotal":88043520,"heapUsed":59845728,"rss":134512640},"pid":10524,"uid":null,"version":"v22.13.0"},"stack":"Error: listen EADDRINUSE: address already in use :::7000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:46:5)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T09:42:08.611Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1937,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1994,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2099,"method":"listen","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":46,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T09:42:08.630Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:42:53.997Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:42:54.010Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:44:53.438Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:44:53.456Z"}
+error: 
+    status - 500 
+    message - TypeError: NoteService.getNotesByUserId is not a function
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:93:34)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at getNotesByUserId (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:90:30)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\types\json.js:113:7)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\types\urlencoded.js:94:7)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2025-02-13T09:44:59.505Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:45:21.275Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:45:21.292Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:45:23.539Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:45:23.556Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:45:55.656Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:45:55.675Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:46:11.436Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:46:11.454Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'userId')
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:97:13)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.getNotesById (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:91:28)
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:93:34)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at getNotesById (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:90:26)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\types\json.js:113:7) 
+    url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2025-02-13T09:46:12.320Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:50:36.095Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:50:36.124Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'userId')
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:97:13)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.getNotesById (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:91:28)
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:93:34)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at getNotesById (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:90:26)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\types\json.js:113:7) 
+    url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2025-02-13T09:50:45.363Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:51:01.690Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:51:01.703Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:54:21.944Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:54:21.966Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:54:25.731Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:54:25.750Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:55:07.188Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:55:07.207Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:55:15.041Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:55:15.053Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:55:21.168Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:55:21.185Z"}
+error: 
+    status - 500 
+    message - ReferenceError: note is not defined
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:97:22)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at Object.apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at Object.getNotesById (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:91:28)
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:93:34)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:7
+    at new Promise (<anonymous>)
+    at apply (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:14:12)
+    at getNotesById (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\controllers\/note.controller.js:90:26)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:284:15
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:328:13)
+    at D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\body-parser\lib\types\json.js:113:7) 
+    url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2025-02-13T09:55:25.912Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:55:46.854Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:55:46.875Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:57:00.743Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:57:00.766Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:57:05.916Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:57:05.935Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:57:08.865Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:57:08.888Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:58:24.117Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:58:24.143Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:59:36.789Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:59:36.810Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:59:46.596Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:59:46.617Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:59:50.823Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:59:50.841Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T09:59:53.611Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T09:59:53.630Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:00:14.410Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:00:14.426Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:00:17.675Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:00:17.694Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:00:23.345Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:00:23.361Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:00:31.331Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:00:31.355Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:00:33.804Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:00:33.819Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:01:56.308Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:01:56.324Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:03:06.113Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:03:06.131Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'userId')
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:101:13)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) 
+    url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2025-02-13T10:03:13.604Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:03:27.963Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:03:27.978Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:04:20.149Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:04:20.180Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:04:40.397Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:04:40.416Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:06:31.784Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:06:31.801Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:06:40.379Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:06:40.397Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:07:15.401Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:07:15.424Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:07:23.315Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:07:23.332Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:08:24.210Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:08:24.226Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:08:31.033Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:08:31.050Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:08:59.614Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:08:59.629Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'userId')
+    at _callee6$ (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\services\/note.service.js:102:13)
+    at tryCatch (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:17)
+    at _next (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:17:9)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) 
+    url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2025-02-13T10:09:05.033Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:10:38.825Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:10:38.838Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:10:56.493Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:10:56.509Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:13:04.702Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:13:04.718Z"}
+info: Server started at http://localhost:7000/api/v1/ {"timestamp":"2025-02-13T10:13:08.256Z"}
+info: Connected to the database. {"timestamp":"2025-02-13T10:13:08.270Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/67ad85e5c1d6cb2a88b9b604 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2025-02-13T10:13:23.134Z"}
+error: uncaughtException: Unexpected token 'o', "openapi: 3"... is not valid JSON
+SyntaxError: Unexpected token 'o', "openapi: 3"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\src\/index.js:34:30)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Module._compile (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:117:24)
+    at node:internal/modules/cjs/loader:1699:10
+    at Object.newLoader [as .js] (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.runMain (node:internal/modules/run_main:170:5)
+    at Object.<anonymous> (D:\My College\CUIET\8 Semesters\BridgeLabz\BL_javascript\Backend\fundo-project\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {"date":"Thu Feb 13 2025 15:47:46 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1063054.031},"process":{"argv":["node","D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\index.js"],"cwd":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18262736,"external":21365898,"heapTotal":88567808,"heapUsed":54527440,"rss":133369856},"pid":12500,"uid":null,"version":"v22.13.0"},"stack":"SyntaxError: Unexpected token 'o', \"openapi: 3\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js:34:30)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Module._compile (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:117:24)\n    at node:internal/modules/cjs/loader:1699:10\n    at Object.newLoader [as .js] (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.runMain (node:internal/modules/run_main:170:5)\n    at Object.<anonymous> (D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object.<anonymous> (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-02-13T10:17:46.399Z","trace":[{"column":null,"file":null,"function":"JSON.parse","line":null,"method":"parse","native":false},{"column":30,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\src\\/index.js","function":null,"line":34,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":24,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":7,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.runMain","line":170,"method":"runMain","native":false},{"column":12,"file":"D:\\My College\\CUIET\\8 Semesters\\BridgeLabz\\BL_javascript\\Backend\\fundo-project\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":null,"line":1699,"method":null,"native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":170,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}]}
+info: Connected to the database. {"timestamp":"2025-02-13T10:17:46.415Z"}

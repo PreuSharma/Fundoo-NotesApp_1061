@@ -9,4 +9,5 @@ router.put('/:_id', userAuth, NoteController.updateNote);
 router.delete('/:_id', userAuth, NoteController.deleteNotes);
 router.get('/allNotes',NoteController.getAllNotes);
 router.get('/noteByUser',NoteController.getNotesByUser);
+router.get('/:_id', userAuth, NoteController.getNotesById);
 export default router;
