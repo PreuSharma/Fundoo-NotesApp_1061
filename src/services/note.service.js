@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 /* eslint-disable prettier/prettier */
 import Note from '../models/note.model';
 import HttpStatus from 'http-status-codes';
@@ -37,7 +38,11 @@ export const updateNote = async (_id, body) => {
         if(note.isTrash === true){
             return {message: 'no notes'};
         }
-        console.log("updated user");
+
+        // if(body.userId!==note.userId){
+        //   return {message: 'You are not Authorized to Update this Note'}
+        // }
+        console.log('updated user');
         const data = await Note.findByIdAndUpdate(_id,body,{new: true , runValidators: true});
         return data;
     } catch (error) {
